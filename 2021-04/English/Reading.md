@@ -1,9 +1,12 @@
 # Reading Comprehension
 
-- USHER IBT TOEFL - INTERMETIDATE TEST
+- USHER IBT TOEFL - INTERMEDIATE TEST
     - Test 4-1: Architectural Change in Eighth Century Japan
 
 ### TIL(Today I Learned)
+
+**2021-04-22 ~ 25**
+
 - Test 4-1: Architectural Change in Eighth Century Japan - Passage 1 + 2
 
 - <b>Understanding how to handle complex subject in a sentence</b>
